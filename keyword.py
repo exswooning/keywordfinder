@@ -72,4 +72,4 @@ def main():
         print("\nCould not find any products. The website structure may have changed.")
 
 if __name__ == "__main__":
-    main()
+    scrape_nest_nepal()
