@@ -1,3 +1,4 @@
+print("--- I AM RUNNING THE LATEST SAVED FILE ---")
 import requests
 from bs4 import BeautifulSoup
 import re
